@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Welcome to samsepik9 geek space%2C%20%22);&center=true&size=27" />
     </a>
 </div>
