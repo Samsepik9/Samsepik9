@@ -1,4 +1,4 @@
-### WECOME TO Samsepik9's GEEK SPACE ! 👋
+## WECOME TO Samsepik9's GEEK SPACE ! 👋
 
 <!--
 **Samsepik9/Samsepik9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +39,16 @@ Here are some ideas to get you started:
 <div>
     <img src="https://komarev.com/ghpvc/?username=Samsepik9&label=Views&color=0e75b6&style=flat" align="middle" alt="访问量统计" />
 </div>
+
+
+### 👽 About Me
+
+<p>  网络安全从业者 </p>
+<p>  代码、编程</p>
+
+<p><strong>  Belief: Either outstanding or out.  </strong></p>
+
+
 
 
 
