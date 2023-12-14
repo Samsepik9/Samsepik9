@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-E34F26?logo=Go&logoColor=fff&style=flat)
-![SQL Badge](https://img.shields.io/badge/SQL-0769AD?logo=SQL&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
 🧠 计划学习
