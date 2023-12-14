@@ -40,13 +40,38 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=Samsepik9&label=Views&color=0e75b6&style=flat" align="middle" alt="访问量统计" />
 </div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Samsepik9/Samsepik9/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Samsepik9/Samsepik9/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Samsepik9/Samsepik9/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+
+
+<!-- just img 图片 -->
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+
+<!--  skill badge 技能徽章 -->
+
+💪 正在学习
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-E34F26?logo=Go&logoColor=fff&style=flat)
+![SQL Badge](https://img.shields.io/badge/SQL-0769AD?logo=SQL&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+
+🧠 计划学习
+
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![JAVA Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Swift Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+
+🧰 常用的工具
+
+![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
+![iPhone Badge](https://img.shields.io/badge/iPhone-5C2D91?logo=iPhone&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![MacOS Badge](https://img.shields.io/badge/MacOS-E2231A?logo=MacOS&logoColor=fff&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 
 
