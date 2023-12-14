@@ -59,14 +59,14 @@ Here are some ideas to get you started:
 🧠 计划学习
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![JAVA Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Swift Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![JAVA Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=java&logoColor=fff&style=flat)
+![Swift Badge](https://img.shields.io/badge/Node.js-393?logo=Swift&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
 🧰 常用的工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![iPhone Badge](https://img.shields.io/badge/iPhone-5C2D91?logo=iPhone&logoColor=fff&style=flat)
+![iPhone Badge](https://img.shields.io/badge/iPhone-5C2D91?logo=iphone&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![MacOS Badge](https://img.shields.io/badge/MacOS-E2231A?logo=MacOS&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
