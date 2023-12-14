@@ -34,3 +34,22 @@ Here are some ideas to get you started:
 <!-- for beauty 留个空行好看点 -->
 
 <div> </div>
+
+<!-- visitor statistics logo 访问量统计徽标 -->
+<div>
+    <img src="https://komarev.com/ghpvc/?username=Samsepik9&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
