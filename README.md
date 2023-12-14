@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 🧰 常用的工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![iPhone Badge](https://img.shields.io/badge/iPhone-5C2D91?logo=iphone&logoColor=fff&style=flat)
+![iPhone Badge](https://img.shields.io/badge/iPhone-5C2D91?logo=Apple&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![MacOS Badge](https://img.shields.io/badge/MacOS-E2231A?logo=MacOS&logoColor=fff&style=flat)
+![MacOS Badge](https://img.shields.io/badge/MacOS-E2231A?logo=Apple&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
