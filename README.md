@@ -54,12 +54,13 @@ Here are some ideas to get you started:
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-E34F26?logo=Go&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
 🧠 计划学习
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![JAVA Badge](https://img.shields.io/badge/Java-3178C6?logo=Java&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-3178C6?logo=java&logoColor=fff&style=flat)
 ![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
