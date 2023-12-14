@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 🧠 计划学习
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![JAVA Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=java&logoColor=fff&style=flat)
-![Swift Badge](https://img.shields.io/badge/Node.js-393?logo=Swift&logoColor=fff&style=flat)
+![JAVA Badge](https://img.shields.io/badge/Java-3178C6?logo=Java&logoColor=fff&style=flat)
+![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
 🧰 常用的工具
