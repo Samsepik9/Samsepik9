@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 ### Self introduction 👦
 
 - 网络安全从业者/工科硕士在读/极客
-- 喜欢研究代码和编程项目/渗透测试/SRC/RedTeam
-- 喜欢Star优秀的GitHub项目
+- 喜欢研究代码和编程项目/渗透测试/SRC/RedTeam，向往安全研究方向
+- 喜欢Star优秀的GitHub项目，正在努力写pr和issures
 
 ---
 ### Belief 📓
 
-<p><strong>  Either outstanding or out.  </strong></p>
+<p><strong>  Either outstanding or out and geek forever!  </strong></p>
 
 ---
 ### Work Experience 🏢 
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
   - 工作岗位：
   - 工作内容：
 
+---
 
 
 
