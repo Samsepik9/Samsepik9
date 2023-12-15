@@ -44,17 +44,21 @@ Here are some ideas to get you started:
 ## Hi There 👏
 ### Self introduction 👦
 - 网络安全从业者/工科硕士在读/极客
+
 - 喜欢研究代码和编程项目/渗透测试/SRC/RedTeam
+
 - 喜欢Star优秀的GitHub项目
 
 ---
 ### Belief 📓
+
 <p><strong>  Either outstanding or out.  </strong></p>
+
 <p><strong>  Make English as your working language. </strong></p>
 
 ---
 ### Work Experience 🏢 
-- [xx公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+- [xx公司](https://www.xx.com/) &emsp; 📌 2023-06-19 —— Now
 - 
 
 
