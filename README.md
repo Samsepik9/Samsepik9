@@ -1,4 +1,4 @@
-## WECOME TO Samsepik9's GEEK SPACE ! 👋
+<!-- ## WECOME TO Samsepik9's GEEK SPACE ! 👋 -->
 
 <!--
 **Samsepik9/Samsepik9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,12 +41,21 @@ Here are some ideas to get you started:
 </div>
 
 
-### 👽 About Me
+## Hi There 👏
+### Self introduction 👦
+- 网络安全从业者/工科硕士在读/极客
+- 喜欢研究代码和编程项目/渗透测试/SRC/RedTeam
+- 喜欢Star优秀的GitHub项目
 
-<p>  网络安全从业者 </p>
-<p>  代码、编程</p>
+---
+### Belief 📓
+<p><strong>  Either outstanding or out.  </strong></p>
+<p><strong>  Make English as your working language. </strong></p>
 
-<p><strong>  Belief: Either outstanding or out.  </strong></p>
+---
+### Work Experience 🏢 
+- [xx公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+- 
 
 
 
@@ -59,7 +68,7 @@ Here are some ideas to get you started:
 
 <!--  skill badge 技能徽章 -->
 
-💪 正在学习
+💪 Learning
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-E34F26?logo=Go&logoColor=fff&style=flat)
@@ -67,14 +76,14 @@ Here are some ideas to get you started:
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
-🧠 计划学习
+🧠 Plan to Learn
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Java Badge](https://img.shields.io/badge/Java-3178C6?logo=openjdk&logoColor=fff&style=flat)
 ![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
-🧰 常用的工具
+🧰 Common Tools
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![iPhone Badge](https://img.shields.io/badge/iPhone-5C2D91?logo=Apple&logoColor=fff&style=flat)
