@@ -53,13 +53,15 @@ Here are some ideas to get you started:
 
 <p><strong>  Either outstanding or out.  </strong></p>
 
-<p><strong>  Make English as your working language. </strong></p>
-
 ---
 ### Work Experience 🏢 
-- [xx公司](https://www.xx.com/) &emsp; 📌 2023-06-19 —— Now
-- 
+- [xx公司](https://www.xx.com/) &emsp; 📌 2022-03-01 —— Now
+  - 工作岗位：
+  - 工作内容：
 
+- [xx公司](https://www.xx.com/) &emsp; 📌 2021-04-01 —— 2021-08-30
+  - 工作岗位：
+  - 工作内容：
 
 
 
