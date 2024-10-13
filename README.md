@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 ## Hi There 👏
 ### Self introduction 👦
 
-- 网络安全从业者/工科硕士在读/极客
-- 喜欢研究代码和编程项目/渗透测试/SRC/RedTeam，向往安全研究方向
-- 喜欢Star优秀的GitHub项目，正在努力写pr和issures
+- Cyber Security/Penetration Testing/Programmer/Geeker/Master of Engineering
+- Programmer/Penetration Testing/SRC/RedTeam/Code audit
+- Lifelong thinking and learning
 
 ---
 ### Belief 📓
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   - 工作岗位：
   - 工作内容：
 
-- [xx公司](https://www.xx.com/) &emsp; 📌 2021-04-01 —— 2021-08-30
+- [xx公司](https://www.xx.com/) &emsp; 📌 2021-04-01 —— 2021-12-31
   - 工作岗位：
   - 工作内容：
 
