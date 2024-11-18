@@ -36,37 +36,50 @@ Here are some ideas to get you started:
 <div> </div>
 
 <!-- visitor statistics logo 访问量统计徽标 -->
+
 <div>
     <img src="https://komarev.com/ghpvc/?username=Samsepik9&label=Views&color=0e75b6&style=flat" align="middle" alt="访问量统计" />
 </div>
 
-
 ## Hi There 👏
+
 ### Self introduction 👦
 
-- Cyber Security/Penetration Testing/Programmer/Geeker/Master of Engineering
-- Programmer/Penetration Testing/SRC/RedTeam/Code audit
-- Lifelong thinking and learning
+- Self-Portrait: 🧑‍💻
+
+  - Name: Samsepik9
+  - Location: Mars
+  - Occupation: Technical Manager
+  - Education: Master of Engineering
+  - Major: Cyber Security & Penetration Testing
+- Focus on: 🧑‍💻
+
+  - Programmer/Code audit/Open source
+  - Penetration Testing/SRC/RedTeam
 
 ---
+
 ### Belief 📓
 
-<p><strong>  Either outstanding or out and geek forever!  </strong></p>
-
----
-### Work Experience 🏢 
-- [xx公司](https://www.xx.com/) &emsp; 📌 2022-03-01 —— Now
-  - 工作岗位：
-  - 工作内容：
-
-- [xx公司](https://www.xx.com/) &emsp; 📌 2021-04-01 —— 2021-12-31
-  - 工作岗位：
-  - 工作内容：
+<p><strong>  Either outstanding or out ！</strong></p>
+<p><strong>  Geek forever! </strong></p>
 
 ---
 
+### Work Experience 🏢
 
+- [xx Company](https://www.xx.com/) &emsp; 📌 2022-03-01 —— Now
 
+  - Job Position：
+  - Job Content：
+- [xx Company](https://www.xx.com/) &emsp; 📌 2021-04-01 —— 2021-12-31
+
+  - Job Position：
+  - Job Content：
+
+---
+
+### Open Source 🤝
 
 <!-- just img 图片 -->
 
@@ -99,16 +112,28 @@ Here are some ideas to get you started:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+<div> </div>
 
+<!-- github commit status -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samsepik9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Top languages  -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samsepik9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div> </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samsepik9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div> </div>
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Samsepik9&theme=dracula)
 
-
-
-
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
