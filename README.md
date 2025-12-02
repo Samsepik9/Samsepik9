@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 
   - Name: Samsepik9
   - Location: Mars
-  - Occupation: Technical Manager & Product and Solution Experts (Attack Surface Management)
+  - Occupation: Technical Manager & Product and Solution Experts
   - Education: Master of Engineering
-  - Major: Cyber Security & Penetration Testing & ASM Solutions
+  - Major: Cyber Security & Penetration Testing & Cyber Security Solutions
 - Focus on: 🧑‍💻
 
-  - Programmer/Code audit/Open source
+  - Programmer/Geeker/Open source
   - Penetration Testing/SRC/RedTeam
   - Pre-Sales/Technical Sales
 
