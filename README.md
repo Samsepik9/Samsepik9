@@ -75,10 +75,10 @@ Here are some ideas to get you started:
 
 ### Work Experience 🏢
 
-#### [Redacted] · 高级售前工程师 & 解决方案专家
+#### [Redacted] · 项目经理 & 解决方案专家
 📅 2025.12 — 至今 &emsp; 📍 成都（西南区）
 
-> 供应链安全治理 · 软件成分分析 · 开源框架治理
+> 云原生安全 · 主机安全 · AI安全
 > 行业：金融 · 制造业 · 车企
 
 ---
